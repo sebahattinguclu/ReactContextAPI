@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Sebahattin YILMAZ",
+      "salary": "1000",
+      "department": "ReactJS",
+      "id": "unique-1"
+    },
+    {
+      "name": "Burak DEMIR",
+      "salary": "420",
+      "department": "Front-end Developer",
+      "id": "unique-2"
+    },
+    {
+      "name": "Mehmet SEVEN",
+      "salary": "2500",
+      "department": "Pazarlama",
+      "id": "DKeTrgB"
+    },
+    {
+      "name": "Mehmet Akif",
+      "salary": "1000",
+      "department": "Software Engineer",
+      "id": "Joty4dP"
+    }
+  ]
+}
